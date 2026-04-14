@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Bem-vindo ao GitHub, Daniel Pires Crisóstomo! 👋</h1>
+<h1 align="center">Olá! Bem-vindo ao GitHub, Daniel Pires Crisóstomo 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=codigos+cmd;visualG;visual+studio;Linux+🐧" alt="Typing SVG" />
 </p>
